@@ -6,23 +6,15 @@
   </samp>
 </p>
 
-<p align="left">
-  <samp>
-     blade classification
-    <img src="https://github.com/jzx-gooner/blade_models/blob/main/blade_classification.jpg" width="240px" align="center">
-  </samp>
-</p>
+## BladeClassificationV2.0
+叶片分类部署+ros节点 
+![avatar](https://github.com/jzx-gooner/blade_models/blob/main/blade_classification.jpg)  
 
-<p align="left">
-  <samp>
-     blade segmentation
-    <img src="https://github.com/jzx-gooner/blade_models/blob/main/blade_segmentation.png" width="240px" align="center">
-  </samp>
-</p>
+## BladeSegmentationV2.0
+叶片分割部署+ros节点
+![avatar](https://github.com/jzx-gooner/blade_models/blob/main/blade_segmentation.png)
 
-<p align="left">
-  <samp>
-     blade tip Location
-    <img src="https://github.com/jzx-gooner/blade_models/blob/main/bladetipLocation.png" width="240px" align="center">
-  </samp>
-</p>
+## BladeTipLocationV2.0
+叶尖位置精准回归网络
+![avatar](https://github.com/jzx-gooner/blade_models/blob/main/bladetipLocation.png)
+
