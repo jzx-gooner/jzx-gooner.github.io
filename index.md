@@ -6,15 +6,10 @@
   </samp>
 </p>
 
-## BladeClassificationV2.0
-叶片分类部署+ros节点 
+## BladeClassification
 ![avatar](https://github.com/jzx-gooner/blade_models/blob/main/blade_classification.jpg)  
-
-## BladeSegmentationV2.0
-叶片分割部署+ros节点
+## BladeSegmentation
 ![avatar](https://github.com/jzx-gooner/blade_models/blob/main/blade_segmentation.png)
-
-## BladeTipLocationV2.0
-叶尖位置精准回归网络
+## BladeTipLocation
 ![avatar](https://github.com/jzx-gooner/blade_models/blob/main/bladetipLocation.png)
 
