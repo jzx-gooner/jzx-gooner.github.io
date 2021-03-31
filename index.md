@@ -7,9 +7,9 @@
 </p>
 
 ## BladeClassification
-![avatar](https://github.com/jzx-gooner/blade_models/blob/main/blade_classification.jpg)  
+![avatar](./images/blade_classification.jpg)  
 ## BladeSegmentation
-![avatar](https://github.com/jzx-gooner/blade_models/blob/main/blade_segmentation.png)
+![avatar](./images/blade_segmentation.png)
 ## BladeTipLocation
-![avatar](https://github.com/jzx-gooner/blade_models/blob/main/bladetipLocation.png)
+![avatar](./images/blade_tip_location.png)
 
