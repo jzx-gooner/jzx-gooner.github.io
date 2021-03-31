@@ -1,34 +1,34 @@
 ## 个人信息
- - jzx/男 
- - 硕士/华北电力大学
- - Email：jia6120@163.com
-  - 期望职位：算法工程师
-  - 期望城市：济南
+- jzx/男 
+- 硕士/华北电力大学
+- Email：jia6120@163.com
+- 期望职位：算法工程师
+- 期望城市：济南
 ---    
 ## 项目经历 
 ---    
-### *a 风电项目(无人机叶片自动巡检系统)*
-- 主要利用无人机进行自动巡检。无人机自动规划路径,对风机进行叶片数据采
+### *A 风电项目(无人机叶片自动巡检系统)*
+- 项目描述：主要利用无人机进行自动巡检。无人机自动规划路径,对风机进行叶片数据采
 集,从而对叶片进行缺陷检测和分析。
-#### (0)BladeClassification
+#### (0) BladeClassification
 - 轻量网络的叶片类型模型
 ![avatar](./images/blade_classification.jpg)  
-#### (1)BladeSegmentation
+#### (1) BladeSegmentation
 - Real time的叶片分割模型
 ![avatar](./images/blade_segmentation.png)
-#### (2)BladeTipLocation
+#### (2) BladeTipLocation
 - anchor free思想的叶尖回归模型
 ![avatar](./images/blade_tip_location.png)
 
 #### (3)Auto Exposure
 ---    
 
-### *b 零售项目(智慧冰箱零售)*
-- 利用摄像头捕获冰箱内产品，统计销量与数据
-#### (0)BottleDetection
+### *B 零售项目(智慧冰箱零售)*
+- 项目描述:利用摄像头捕获冰箱内产品，统计销量与数据
+#### (0) BottleDetection
 - 基于yolov5的bottle检测
 ![avatar](./images/blade_classification.jpg)  
-#### (1)产品快速上线标注工具
+#### (1) 产品快速上线标注工具
 - 基于embedding和knn的聚类快速标注算法
 ---    
 
