@@ -44,9 +44,9 @@
 
 <div align=center><img width="500" height="200" src="./images/bottle_detection.png"/></div>
 
-#### **(1) 产品快速上线标注工具**
+#### **(1) fast onboarding label-tool**
 
-- 关键词：embedding/knn/faiss/label-tool
+- 关键词：embedding/knn/faiss
 
 <div align=center><img width="500" height="200" src="./images/labcluster.png"/></div>
 
