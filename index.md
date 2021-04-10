@@ -32,24 +32,35 @@
 
 - 项目描述:利用摄像头捕获冰箱内产品，统计销量与数据
 #### (0) BottleDetection
+
 - 关键词:yolov5/resnet/small object detection
-![avatar](./images/bottle_detection.png)  
+
+<div align=center><img width="600" height="200" src="./images/bottle_detection.png"/></div>
+
 #### (1) 产品快速上线标注工具
+
 - 关键词：embedding/knn/faiss/label-tool
-![avatar](./images/labcluster.png) 
+
+<div align=center><img width="600" height="200" src="./images/labcluster.png"/></div>
+
 ---    
 
 ## 开源项目
 
 --- 
 #### (0) waste-sort by DeepLearning
-![avatar](https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/1.jpg) 
+
+<div align=center><img width="600" height="200" src="https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/1.jpg"/></div>
 
 #### (1)Structured-Light-Scanner
-![avatar](https://github.com/jzx-gooner/Structured-Light-Scanner/blob/main/imgs/result.jpg) 
+
+
+<div align=center><img width="600" height="200" src="https://github.com/jzx-gooner/Structured-Light-Scanner/blob/main/imgs/result.jpg"/></div>
 
 #### (2)wind-speed forcast by deeplearning
-![avatar](https://github.com/lab135-ncepu/-/blob/master/%E8%BE%93%E5%85%A5%E5%8F%82%E6%95%B0%E7%A1%AE%E5%AE%9A.JPG) 
+
+
+<div align=center><img width="600" height="200" src="https://github.com/lab135-ncepu/-/blob/master/%E8%BE%93%E5%85%A5%E5%8F%82%E6%95%B0%E7%A1%AE%E5%AE%9A.JPG"/></div>
 
 
 ## 个人描述
