@@ -13,18 +13,18 @@
 ### *A 风电项目(无人机叶片自动巡检系统)*
 - 项目描述：主要利用无人机进行自动巡检。无人机自动规划路径,对风机进行叶片数据采
 集,从而对叶片进行缺陷检测和分析。
-#### (0) BladeClassification
-- 轻量网络的叶片类型模型
+#### (0) BladeClassification 轻量网络的叶片类型模型
+- 关键词：轻量网络/mobilenet/ros/tensorrt 
 ![avatar](./images/blade_classification.jpg)  
-#### (1) BladeSegmentation
-- Real time的叶片分割模型
+#### (1) BladeSegmentation Real time的叶片分割模型
+- 关键词： bisenet/segmentation/real-time
 ![avatar](./images/blade_segmentation.png)
-#### (2) BladeTipLocation
-- anchor free思想的叶尖回归模型
+#### (2) BladeTipLocation 叶尖位置回归模型
+- anchor-free/heatmap/detection as point
 ![avatar](./images/blade_tip_location.png)
 
 #### (3)Auto Exposure
-
+- 关键词：noise/motion-blur/exposure-value/Optimal Step Size
 ---    
 
 
@@ -32,24 +32,30 @@
 
 - 项目描述:利用摄像头捕获冰箱内产品，统计销量与数据
 #### (0) BottleDetection
-- 基于yolov5的bottle检测
+- 关键词:yolov5/resnet/small object detection
 ![avatar](./images/bottle_detection.png)  
 #### (1) 产品快速上线标注工具
-- 基于embedding和knn的聚类快速标注算法
+- 关键词：embedding/knn/faiss/label-tool
 ---    
 
 ## 开源项目
 
----    
+--- 
+#### (0) waste-sort by DeepLearning
+![avatar](https://github.com/lab135-ncepu/DL-wastesort/blob/master/pictures/1.jpg) 
 
-## 技能清单
+#### (1)Structured-Light-Scanner
+![avatar](https://github.com/jzx-gooner/Structured-Light-Scanner/blob/main/imgs/result.jpg) 
 
-- Web开发：Java/JavaScript
-- 后端框架：Spring MVC/Spring Boot
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/Maven
-- 单元测试：JUnit/TestNG
+#### (2)wind-speed forcast by deeplearning
+![avatar](https://github.com/lab135-ncepu/-/blob/master/%E8%BE%93%E5%85%A5%E5%8F%82%E6%95%B0%E7%A1%AE%E5%AE%9A.JPG) 
+
+
+## 个人描述
+
+- 深度学习和机器人开发相关经验
+- 较为扎实的编程和算法基础
+- 为人友善，性格开朗
       
 ---      
 ## 致谢
