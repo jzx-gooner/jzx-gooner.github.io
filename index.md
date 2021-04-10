@@ -27,7 +27,7 @@
 - 项目描述:利用摄像头捕获冰箱内产品，统计销量与数据
 #### (0) BottleDetection
 - 基于yolov5的bottle检测
-![avatar](./images/blade_classification.jpg)  
+![avatar](./images/bottle_detection.png)  
 #### (1) 产品快速上线标注工具
 - 基于embedding和knn的聚类快速标注算法
 ---    
