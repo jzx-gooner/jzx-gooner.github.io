@@ -36,6 +36,7 @@
 ![avatar](./images/bottle_detection.png)  
 #### (1) 产品快速上线标注工具
 - 关键词：embedding/knn/faiss/label-tool
+![avatar](./images/labcluster.jpg) 
 ---    
 
 ## 开源项目
