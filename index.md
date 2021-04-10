@@ -32,7 +32,6 @@
 
 - 关键词：noise/motion-blur/exposure-value/Optimal Step Size
 
----
 ---    
 
 ### ***B 零售项目(智慧冰箱零售)***
@@ -61,7 +60,7 @@
 <div align=center><img width="600" height="200" src="./images/open.png"/></div>
 
 
-
+--- 
 ## 个人描述
 
 - 深度学习和机器人开发相关经验
@@ -71,5 +70,6 @@
 ---      
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+--- 
 ## wechat
 <div align=center><img width="200" height="200" src="./images/wechat.jpg"/></div>
