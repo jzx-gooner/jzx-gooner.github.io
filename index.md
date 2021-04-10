@@ -68,8 +68,5 @@
 - 为人友善，性格开朗
       
 ---      
-## 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
---- 
 ## wechat
 <div align=center><img width="200" height="200" src="./images/wechat.jpg"/></div>
