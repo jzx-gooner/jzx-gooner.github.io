@@ -1,8 +1,7 @@
 ## 个人信息
 - 姓名：jzx/男 
 - 学历：硕士/华北电力大学
-- Email：jia6120@163.com
-- 微信：sswjzx
+- Email：jia6120@163.com   
 - 期望工作城市：济南
 - 期望工作职位：算法工程师 
 
@@ -72,3 +71,5 @@
 ---      
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+## wechat
+<div align=center><img width="200" height="200" src="./images/wechat.jpg"/></div>
