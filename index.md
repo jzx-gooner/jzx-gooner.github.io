@@ -30,7 +30,10 @@
 <div align=center><img width="500" height="70" src="./images/blade_tip_location.png"/></div> 
 
 #### **(3) Auto Exposure 叶片前景分割的自动曝光**
+
 - 关键词：noise/motion-blur/exposure-value/Optimal Step Size
+
+
 ---    
 
 ### ***B 零售项目(智慧冰箱零售)***
