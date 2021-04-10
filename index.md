@@ -26,7 +26,7 @@
 <div align=center><img width="500" height="70" src="./images/blade_segmentation.png"/></div> 
 
 #### **(2) BladeTipLocation 叶尖位置回归模型**
-- anchor-free/heatmap/detection as point
+- 关键词：anchor-free/heatmap/detection as point
 <div align=center><img width="500" height="70" src="./images/blade_tip_location.png"/></div> 
 
 #### **(3) Auto Exposure 叶片前景分割的自动曝光**
@@ -52,7 +52,7 @@
 
 ---    
 
-### 开源项目
+### ***C 开源项目***
 
 --- 
 #### **[waste-sort by DeepLearning](https://github.com/jzx-gooner/DL-wastesort)  |   [Structured-Light-Scanner](https://github.com/jzx-gooner/Structured-Light-Scanner) | [Wind-Speed Forcast](https://github.com/jzx-gooner/mypaper)**
