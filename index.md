@@ -62,7 +62,7 @@
 
 
 ---    
-### ***C 手持slam建模***
+### ***C 手持slam建模项目***
 
 - 项目描述：利用slam技术对所扫描的场景进行三维建模
 
@@ -72,7 +72,7 @@
 
 ---    
 
-### ***D USV视觉感知***
+### ***D USV视觉感知项目***
 
 - 项目描述：利用单目摄像头对无人船的可行驶区域，障碍物进行划分和检测
 - 关键词：segmentation/obstacles-detection
@@ -81,7 +81,7 @@
 
 ---    
   
-***E 开源项目***
+### ***E 开源项目***
 
 --- 
 #### **[waste-sort by DeepLearning](https://github.com/jzx-gooner/DL-wastesort)  |   [Structured-Light-Scanner](https://github.com/jzx-gooner/Structured-Light-Scanner) | [Wind-Speed Forcast](https://github.com/jzx-gooner/mypaper) |[YOLO-DEEPSORT](https://github.com/jzx-gooner/yolov5_deepsort_ros)**
