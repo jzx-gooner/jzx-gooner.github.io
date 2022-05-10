@@ -2,8 +2,17 @@
 - 姓名：jzx/男 
 - 学历：硕士/华北电力大学
 - Email：jia6120@163.com   
-- 期望工作城市：济南
-- 期望工作职位：算法工程师 
+
+
+---
+
+## 工作经历
+
+|  工作单位   | 时间  | 内容  |
+|  ----  | ----  |---  |
+| 扩博智能  | 2018.04-2021.5 |算法工程师  |
+| 中科院空天信息技术研究院  | 2021.5-2021.10 |算法工程师  |
+| 国网智能  | 2021.11- |算法工程师  |
 
 ---
 
@@ -51,16 +60,35 @@
 
 <div align=center><img width="500" height="200" src="./images/labcluster.png"/></div>
 
+
+---    
+### ***C 手持slam建模***
+
+- 项目描述：利用slam技术对所扫描的场景进行三维建模
+
+- 关键词：slam/3d-modeling/3d-reconstruction
+
+<div align=center><img width="500" height="200" src="./images/slam.png"/></div>
+
 ---    
 
-### ***C 开源项目***
+### ***D USV视觉感知***
+
+- 项目描述：利用单目摄像头对无人船的可行驶区域，障碍物进行划分和检测
+- 关键词：segmentation/obstacles-detection
+
+<div align=center><img width="500" height="200" src="./images/usv.jpg"/></div>
+
+---    
+  
+***E 开源项目***
 
 --- 
-#### **[waste-sort by DeepLearning](https://github.com/jzx-gooner/DL-wastesort)  |   [Structured-Light-Scanner](https://github.com/jzx-gooner/Structured-Light-Scanner) | [Wind-Speed Forcast](https://github.com/jzx-gooner/mypaper)**
+#### **[waste-sort by DeepLearning](https://github.com/jzx-gooner/DL-wastesort)  |   [Structured-Light-Scanner](https://github.com/jzx-gooner/Structured-Light-Scanner) | [Wind-Speed Forcast](https://github.com/jzx-gooner/mypaper) |[YOLO-DEEPSORT](https://github.com/jzx-gooner/yolov5_deepsort_ros)**
 <div align=center><img width="600" height="200" src="./images/open.png"/></div>
 
+---
 
---- 
 ## 个人描述
 
 - 深度学习和机器人开发相关经验
