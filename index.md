@@ -39,7 +39,7 @@
 
 #### **(3) Auto Exposure 叶片前景分割的自动曝光**
 
-- 关键词：noise/motion-blur/exposure-value/Optimal Step Size
+- 关键词：motion-blur/exposure-value/Optimal Step Size
 
 ---    
 
